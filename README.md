@@ -7,3 +7,5 @@ The user can begin playing by pressing the 'Start' button and the player will ha
 The game is interactive and provides feeback to the user and provides a timing aspect.
 
 At the end of the game, the stats will notify you what your outcome was.
+
+https://mikegomez.github.io/triviagame/
